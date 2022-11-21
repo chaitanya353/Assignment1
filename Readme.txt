@@ -1,0 +1,2 @@
+Explanation: first and foremost, the upper and lower limit of k are defined, and then the x and y values are generated according to the k value according to the limit range that was set. 
+The value of n will be generated at random within the range of 2<n<12 inclusive. Then, in accordance with the procedure for locating the near miss, we carried out the procedure by solving the equation and determining the value of the near miss, and finally, we found the nearest miss's value.
